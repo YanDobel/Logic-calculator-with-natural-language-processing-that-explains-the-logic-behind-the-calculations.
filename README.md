@@ -1,0 +1,2 @@
+# Logic-calculator-with-natural-language-processing-that-explains-the-logic-behind-the-calculations.
+The calculator was built using the Shunting Yard algorithm to transform the expression into a suffix and then construct an Expression Tree. Additionally, I implemented a small natural language processing model that utilizes concepts of Markov chains and state transitions; depending on the state it is in, the explanation may vary. 
